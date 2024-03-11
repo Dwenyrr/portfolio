@@ -39,4 +39,10 @@ We also needed to design the background and other visual elements of the first l
 #### Characters and 1st level background and other visuals
 ![image](https://github.com/Dwenyrr/portfolio/assets/114153293/12c2aa82-ad34-4c7e-a2a6-d138283d7cc7)
 
+### Vector Graphic Scenery with Adobe Illustrator
+A project for "Graphic Design"-course.
+The assignment was to create a vector graphic scenery with suitable text. <br><br>
+![Artboard 1](https://github.com/Dwenyrr/portfolio/assets/114153293/b37c3d7b-4d7c-41c4-ab1f-ae8a978cd10d)
+
+
 
