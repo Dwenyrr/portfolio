@@ -44,6 +44,13 @@ A project for "Graphic Design"-course.
 The assignment was to create a vector graphic scenery with suitable text. <br><br>
 ![Artboard 1](https://github.com/Dwenyrr/portfolio/assets/114153293/b37c3d7b-4d7c-41c4-ab1f-ae8a978cd10d)
 
+### Notebook for Sampling - Bachelor's Thesis for Biomedical Laboratory Science Degree
+This is my Bachelor's Thesis for my previous studies and it is used in teaching and by trainees. The purpose of this study was to produce
+an illustrated notebook for sampling, which provides the most commonly needed information quickly.
+
+The notebook graphics and layout are made by me using vector graphics. <br>
+[Notebook for Sampling - PDF](https://www.theseus.fi/bitstream/handle/10024/261291/N%c3%a4ytteenoton%20muistivihko%20-%20Luettava%20versio%202_PDFA.pdf?sequence=4&isAllowed=y)
+
 ## My Personal Projects 
 Behind the DeviantArt-links you can find my digital art portfolios over the years, dating all the way back to 2009.  
 [My Oldest Works from 2009-2013 - DeviantArt](https://www.deviantart.com/kampasimpukka) <br>
