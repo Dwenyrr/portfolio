@@ -44,5 +44,9 @@ A project for "Graphic Design"-course.
 The assignment was to create a vector graphic scenery with suitable text. <br><br>
 ![Artboard 1](https://github.com/Dwenyrr/portfolio/assets/114153293/b37c3d7b-4d7c-41c4-ab1f-ae8a978cd10d)
 
+## My Personal Projects 
+Behind the DeviantArt-links you can find my digital art portfolios over the years, dating all the way back to 2009.  
+[My Oldest Works from 2009-2013 - DeviantArt](https://www.deviantart.com/kampasimpukka) <br>
+[My Works from 2013-2017 - DeviantArt](https://www.deviantart.com/hynnej)
 
 
