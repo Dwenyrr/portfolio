@@ -2,7 +2,7 @@
 *My awesome projects*
 
 
-## Framer projects:
+## Framer projects for School:
 ### Redesigned User Experience prototype of Ledvances smart light control app
 UX design school project where we had to redesign the user experience for any application or website we wanted.
 The prototype and it's features do not have a full functionality nor responsivity. It is designed for a mobile device.  
@@ -13,7 +13,7 @@ UI design school project, where we had to create online store to learn prototypi
 As it is only a prototype, it is not fully functioning and e.g. the shopping cart and customer information on check out are already filled in. <br>
 [Link to the website](https://lelujenelamaajh.framer.website/)
 
-## Graphic projects
+## Graphics Projects for School
 
 ### Video Business Card with Adobe After Effects
 A school project for "Photo Editing and Animation"-course. <br><br>
