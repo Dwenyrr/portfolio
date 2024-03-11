@@ -52,6 +52,9 @@ The notebook graphics and layout are made by me using vector graphics. <br>
 [Notebook for Sampling - PDF](https://www.theseus.fi/bitstream/handle/10024/261291/N%c3%a4ytteenoton%20muistivihko%20-%20Luettava%20versio%202_PDFA.pdf?sequence=4&isAllowed=y)
 
 ## My Personal Projects 
+My more recent art on Instagram:<br>
+[Dwenart - Instagram](https://www.instagram.com/dwenart/)<br><br>
+
 Behind the DeviantArt-links you can find my digital art portfolios over the years, dating all the way back to 2009.  
 [My Oldest Works from 2009-2013 - DeviantArt](https://www.deviantart.com/kampasimpukka) <br>
 [My Works from 2013-2017 - DeviantArt](https://www.deviantart.com/hynnej)
