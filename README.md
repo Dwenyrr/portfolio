@@ -1,20 +1,30 @@
 # portfolio
 *My awesome projects*
 
-## Application projects for school:
-### Boat reservation application with TypeScript, React and Material UI components
+## Application and Web Development Projects for School:
+
+### TypeScript & React:
+
+#### Boat reservation application with TypeScript, React and Material UI components
 A boat reservation application for a school project, practicing routing, React components, Web API calls and saving data to localStorage. <br>
 The application fetches weather information from a Web API and saves data to the localStorage (username, password and reservations).<br>
 <i>The application does not follow any safety guidelines, so do not use real usernames or passwords!</i> <br>
-[Link to the application](https://ejeho006-xamk.github.io/veneenvarausjarjestelma/)
+[Link to the application (VeVa)](https://ejeho006-xamk.github.io/veneenvarausjarjestelma/)
 <br><br>
-## Framer projects for School:
-### Redesigned User Experience prototype of Ledvances smart light control app
+
+### HTML & CSS:
+#### Homepage for dogs using HTML and CSS
+A final project for the Markdown Languages course. Basic homepage for dogs using HTML and CSS.<br>
+<i>The form on the webpage does not have any functionality.</i><br>
+[Link to the webpage (CCZ)](https://htmlpreview.github.io/?https://github.com/Dwenyrr/html-css-web-page/blob/main/Nettisivut/html/etusivu.html)
+
+### Framer projects:
+#### Redesigned User Experience prototype of Ledvances smart light control app
 UX design school project where we had to redesign the user experience for any application or website we wanted.
 The prototype and it's features do not have a full functionality nor responsivity. It is designed for a mobile device.  
 [Link to the application](https://able-project-072333.framer.app/loading_page)
 
-### Used Toys Online Store
+#### Used Toys Online Store
 UI design school project, where we had to create online store to learn prototyping with Framer. 
 As it is only a prototype, it is not fully functioning and e.g. the shopping cart and customer information on check out are already filled in. <br>
 [Link to the website](https://lelujenelamaajh.framer.website/)
